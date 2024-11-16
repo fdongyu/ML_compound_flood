@@ -1,6 +1,5 @@
 
-# Project Title
-ML models for compound flood simulation
+# ML models for compound flood simulation
 
 ## Description
 Comparison of PINN and data-driven models for simulating compound river and coastal flooding
