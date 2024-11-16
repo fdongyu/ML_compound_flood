@@ -24,6 +24,11 @@ conda activate tf2
 
 ## Usage
 
+### Before training
+Before running the code, need to create folders to save the model output
+For CNN, create /files/CNN
+for PINN, create /saved_model
+
 ### Training and Results
 
 #### PINN
